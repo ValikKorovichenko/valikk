@@ -1,0 +1,15 @@
+# Ignore all .class
+*.class
+
+# Ignore all files in the Directory build/
+build/
+
+#Ignore all .pdf files in doc
+doc/**/*.pdf
+
+#launch.json folder
+.vscode/
+
+#Cache folder
+.alcache/
+
